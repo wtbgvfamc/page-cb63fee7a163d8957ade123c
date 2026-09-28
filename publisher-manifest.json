@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "03024230cb6ab361aa819ea9",
+  "owner": "wtbgvfamc",
+  "repo": "page-cb63fee7a163d8957ade123c",
+  "title": "青云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cb63fee7a163d8957ade123c",
+      "a": "青云梯",
+      "b": "",
+      "entity": "青云梯",
+      "brand": "青云梯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ab8c2eaf010b001a9307128acf6054e6c90f09ab3c9853b77ce9cbbad2532ee0",
+      "content": {
+        "keyword1": "青云梯",
+        "keyword2": "",
+        "primary_entity": "青云梯",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青云梯为您提供安全稳定的VPN梯子网络加速服务和客户端下载，帮助您畅享互联网体验。",
+          "AI_DESCRIPTION": "青云梯为您提供安全稳定的VPN梯子网络加速服务和客户端下载，帮助您畅享互联网体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            background: #001f3f;\n            color: #e0f0ff;\n            line-height: 1.6;\n        }\n        header {\n            background: #001f3f;\n            padding: 1rem 0;\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: #00bfff;\n            text-decoration: none;\n        }\n        nav a {\n            color: #e0f0ff;\n            text-decoration: none;\n            margin-left: 2rem;\n            font-size: 1rem;\n        }\n        .main-content {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 20px;\n        }\n        h1 {\n            font-size: 2.8rem;\n            margin-bottom: 1rem;\n            color: #00ccff;\n        }\n        .hero {\n            font-size: 1.3rem;\n            color: #88ccff;\n            margin-bottom: 2rem;\n        }\n        h2 {\n            font-size: 1.8rem;\n            margin: 2.5rem 0 1rem;\n            color: #00ddff;\n        }\n        h3 {\n            font-size: 1.4rem;\n            margin: 1.5rem 0 0.5rem;\n            color: #00eeff;\n        }\n        p {\n            margin-bottom: 1rem;\n        }\n        section {\n            margin-bottom: 3rem;\n            padding: 2rem;\n            border-radius: 12px;\n            background: rgba(255,255,255,0.05);\n            border: 1px solid rgba(0, 188, 255, 0.1);\n        }\n        ol {\n            padding-left: 1.5rem;\n        }\n        li {\n            margin-bottom: 0.8rem;\n        }\n        details {\n            margin-bottom: 1rem;\n            background: rgba(255,255,255,0.03);\n            padding: 1rem;\n            border-radius: 8px;\n        }\n        summary {\n            font-weight: bold;\n            color: #00ccff;\n            cursor: pointer;\n            font-size: 1.1rem;\n        }\n        footer {\n            background: #001f3f;\n            padding: 2rem;\n            text-align: center;\n            color: #88aaff;\n            font-size: 0.9rem;\n        }\n        @media (max-width: 768px) {\n            nav a {\n                margin-left: 1rem;\n            }\n            .logo {\n                font-size: 1.5rem;\n            }\n            .main-content {\n                padding: 1rem 10px;\n            }\n            h1 {\n                font-size: 2.2rem;\n            }\n            section {\n                padding: 1.5rem;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <a href=\"#\" class=\"logo\">青云梯</a>\n            <div>\n                <a href=\"#intro\">首页</a>\n                <a href=\"#features\">产品</a>\n                <a href=\"#download\">下载</a>\n                <a href=\"#faq\">常见问题</a>\n            </div>\n        </nav>\n    </header>\n    <main class=\"main-content\">\n        <h1>青云梯</h1>\n        <p class=\"hero\">安全稳定的VPN梯子网络加速与客户端下载服务</p>\n        \n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>青云梯是一款专注于网络加速的工具，提供VPN梯子服务，助力用户实现安全便捷的互联网连接。</p>\n        </section>\n        \n        <section id=\"features\">\n            <h2>使用场景</h2>\n            <p>青云梯适用于远程办公、国际访问、社交娱乐等多种场景，帮助用户突破地域限制，获得稳定快速的网络体验。</p>\n        </section>\n        \n        <section id=\"howto\">\n            <h2>操作说明</h2>\n            <p>使用青云梯非常简单易行：</p>\n            <ol>\n                <li>根据您的需求选择方案</li>\n                <li>获取并安装客户端</li>\n                <li>完成账号配置</li>\n                <li>启动连接并享受加速</li>\n            </ol>\n        </section>\n        \n        <section id=\"download\">\n            <h2>客户端下载</h2>\n            <p>青云梯提供便捷的客户端下载，您可以随时获取最新版本以开启您的加速之旅。</p>\n        </section>\n        \n        <section id=\"plans\">\n            <h2>套餐方案</h2>\n            {{PLANS_HTML}}\n        </section>\n        \n        <section id=\"clients\">\n            <h2>合作伙伴</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        \n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是青云梯？</summary>\n                <p>青云梯是一种专业的网络加速工具，提供VPN梯子服务，帮助用户实现安全稳定的互联网连接。</p>\n            </details>\n            <details>\n                <summary>如何使用青云梯？</summary>\n                <p>按照操作说明选择方案、下载客户端、配置账号并连接服务即可。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>青云梯客户端兼容主流平台，包括电脑和移动设备。</p>\n            </details>\n            <details>\n                <summary>隐私安全有保障吗？</summary>\n                <p>是的，青云梯采用加密技术，确保您的网络活动安全。</p>\n            </details>\n            <details>\n                <summary>客服支持如何？</summary>\n                <p>青云梯提供在线客服服务，随时为您解答疑问。</p>\n            </details>\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 青云梯 所有权利保留。</p>\n    </footer>\n\n",
+          "hash": "f7b327015761b79a020398b9360a9277b07aabab006b593438b75acd394f5a40",
+          "seo": {
+            "title": "青云梯 - VPN梯子网络加速客户端下载",
+            "keywords": "青云梯,VPN梯子,网络加速,加速器,客户端下载,下载服务",
+            "description": "青云梯为您提供安全稳定的VPN梯子网络加速服务和客户端下载，帮助您畅享互联网体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ycxtyjz.cn",
+    "host": "zh.ycxtyjz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "ycxtyjz.cn",
+      "url": "https://ycxtyjz.cn/",
+      "label": "萌喵加速(Nirvana)",
+      "apex": "ycxtyjz.cn",
+      "kind": null,
+      "identity": "br5cqyxe/page-c3c1368c405626c4d2f397e7"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "43f786bff0949ec5967851a14d13a5c719cb786dbec342d0eb17d9a6679e09f1",
+    "sitemap.xml": "1df1b803d0f2700c01340cc9b48e48b3c0eaa5521663a3a72ba0e160a977e36c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "de4373720df4d5396bbaa0c02c11591f7f5e62f7f553086c252e751e849159cf",
+    "robots.txt": "e8e4fe1574ed8c33e1030253ae6026bad1ca6c74948db62334d3e58aa3500a1e",
+    "5479fb36c8145eb3f59528c6eb4069d6.txt": "5d6b7eb0589efbf4b1124a18007b28bf875369824e7dba174e486be414542270"
+  },
+  "revision": "c50ffe65736b57f94e51a0eb6bf4b68fa7d7b9aac3974fa63c7fb2d374ee8fde"
+}
